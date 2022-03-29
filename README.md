@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @matt-cheney. I'm a developer and IT professional located in Dallas, TX.
+- 👋 Hi, I’m @matt-cheney. I'm an IT professional and developer located in Dallas, TX.
 
 - About Me: 
     - I am currently employed as an IT Analyst at Nelson Forensics.
